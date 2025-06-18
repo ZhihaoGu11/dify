@@ -246,3 +246,5 @@ Triển khai Dify trên AWS bằng [CDK](https://aws.amazon.com/cdk/)
 ## Giấy phép
 
 Kho lưu trữ này có sẵn theo [Giấy phép Mã nguồn Mở Dify](LICENSE), về cơ bản là Apache 2.0 với một vài hạn chế bổ sung.
+
+123
