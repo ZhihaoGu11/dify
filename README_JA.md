@@ -155,7 +155,7 @@ DifyはオープンソースのLLMアプリケーション開発プラットフ�
 [こちら](https://dify.ai)のDify Cloudサービスを利用して、セットアップ不要で試すことができます。サンドボックスプランには、200回のGPT-4呼び出しが無料で含まれています。
 
 - **Dify Community Editionのセルフホスティング</br>**
-この[スタートガイド](#quick-start)を使用して、ローカル環境でDifyを簡単に実行できます。
+この[スタートガイド](#クイックスタート)を使用して、ローカル環境でDifyを簡単に実行できます。
 詳しくは[ドキュメント](https://docs.dify.ai)をご覧ください。
 
 - **企業/組織向けのDify</br>**
@@ -202,6 +202,7 @@ docker compose up -d
 - [Helm Chart by @magicsong](https://github.com/magicsong/ai-charts)
 - [YAML file by @Winson-030](https://github.com/Winson-030/dify-kubernetes)
 - [YAML file by @wyy-holding](https://github.com/wyy-holding/dify-k8s)
+- [🚀 新着！YAML ファイル（Dify v1.6.0 対応）by @Zhoneym](https://github.com/Zhoneym/DifyAI-Kubernetes)
 
 #### Terraformを使用したデプロイ
 
